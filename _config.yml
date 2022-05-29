@@ -1,16 +1,10 @@
 title: <p align="center"> Himaprasoon </p>
 logo: /assets/img/hima.png
-
 description:
   <p align="center">
-#  <a href="pdf/resume.pdf">Resume</a> |
+  #  <a href="pdf/resume.pdf">Resume</a> |
   <a href="https://www.linkedin.com/in/himaprasoon/">LinkedIn</a> |
   <a href="https://github.com/himaprasoonpt">GitHub</a>
-  
-  <br>   
-  AI  Engineer @ Razorthink
-  <br>
+  <br>AI  Engineer @ Razorthink<br>
   </p>
-
-
 theme: jekyll-theme-minimal
