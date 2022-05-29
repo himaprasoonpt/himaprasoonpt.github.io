@@ -1,10 +1,4 @@
 title: <p align="center"> Himaprasoon </p>
-
-
-remote_theme: pages-themes/minimal@v0.2.0
-
-
-
 logo: /assets/img/hima.png
 
 description:
@@ -18,7 +12,5 @@ description:
   <br>
   </p>
 
-plugins:
-- jekyll-remote-theme
 
 theme: jekyll-theme-minimal
