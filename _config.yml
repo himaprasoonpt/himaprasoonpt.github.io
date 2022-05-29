@@ -1,16 +1,8 @@
 title: <p align="center"> Himaprasoon </p>
 logo: /assets/img/hima.png
-#description:
-#  <p align="center">
-#  #  <a href="pdf/resume.pdf">Resume</a> |
-#  <a href="https://www.linkedin.com/in/himaprasoon/">LinkedIn</a> |
-#  <a href="https://github.com/himaprasoonpt">GitHub</a>
-#  <br>AI  Engineer @ Razorthink<br>
-#  </p>
 
 description:
   <p align="center">
-  <a href="/assets/img/hima.png">Resume</a> |
   <a href="https://www.linkedin.com/in/himaprasoon/">LinkedIn</a> |
   <a href="https://github.com/himaprasoonpt">GitHub</a>
   
@@ -18,5 +10,5 @@ description:
   AI Engineer @ Razorthink
   <br>
   </p>
-
+  <a href="https://stackoverflow.com/users/3534616/himaprasoon"><img src="https://stackoverflow.com/users/flair/3534616.png" width="208" height="58" alt="profile for Himaprasoon at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Himaprasoon at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 theme: jekyll-theme-minimal
